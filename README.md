@@ -1,7 +1,7 @@
 🌟 springboot-employee-crud
 This is a simple Employee Management REST API built with Spring Boot that allows you to perform basic CRUD operations (Create, Read, Update, Delete) on employee records.
 
-✨ Features
+✨ Features:
 Add new employee details
 
 View all employees or a specific employee by ID
@@ -10,15 +10,19 @@ Update existing employee information
 
 Delete employee records
 
-🛠 Tech Stack
+🛠 Tech Stack:
+
 Java 17+
+
 Spring Boot
+
 Spring Data JPA
- MySQL
+
+MySQL
 
 Maven
 
-📦 API Endpoints
+📦 API Endpoints:
 POST /employees → Add a new employee
 
 GET /employees → Get all employees
